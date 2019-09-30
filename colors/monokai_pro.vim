@@ -168,5 +168,6 @@ hi graphqlName ctermfg=221 ctermbg=NONE cterm=NONE guifg=#ffd866 guibg=NONE gui=
 hi graphqlBraces ctermfg=246 ctermbg=NONE cterm=NONE guifg=#939293 guibg=NONE gui=NONE
 
 " Guidelime
-hi guidelimeAccept ctermfg=27 ctermbg=NONE cterm=NONE guifg=#D8D843 guibg=NONE gui=NONE
-hi guidelimeTurnIn ctermfg=28 ctermbg=NONE cterm=NONE guifg=#4B5E32 guibg=NONE gui=NONE
+hi guidelimeAccept ctermfg=27 ctermbg=NONE cterm=NONE guifg=#F4f44B guibg=NONE gui=NONE
+hi guidelimeTurnIn ctermfg=28 ctermbg=NONE cterm=NONE guifg=#6B8747 guibg=NONE gui=NONE
+hi guidelimeComplete ctermfg=29 ctermbg=NONE cterm=NONE guifg=#4581EF guibg=NONE gui=NONE
