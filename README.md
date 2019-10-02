@@ -5,7 +5,7 @@ Monokai Pro color scheme for Vim / Neovim. Inspired by https://www.monokai.pro/.
 ## Installation
 
 - Plugin managers: [vim-plug](https://github.com/junegunn/vim-plug):
-  + Add `Plug 'phanviet/vim-monokai-pro'` to your `init.vim` (Neovim) or `.vimrc` (Vim) file.
+  + Add `Plug 'nymann/vim-monokai-pro'` to your `init.vim` (Neovim) or `.vimrc` (Vim) file.
   + Run `:PlugInstall` after resourcing/relaunching.
 
 - Manual install. Move `vim-monokai-pro.vim` to runtime path directory: 
